@@ -12,3 +12,4 @@ vars.yml
 foo
 concourse-outputs
 config_tests
+config/vars.yml
